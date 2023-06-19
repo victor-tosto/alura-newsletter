@@ -21,8 +21,8 @@
 </p>
 
 <div display="flex" align="center">
-  <img width="50%" src="./image/mobile-alura-newsletter" alt="Tela mobile Alura Newsletter">
-  <img width="50%" src="./image/desktop-alura-newsletter" alt="Tela desktop Alura Newsletter">
+  <img width="30%" src="./image/mobile-alura-newsletter.png" alt="Tela mobile Alura Newsletter">
+  <img width="60%" src="./image/desktop-alura-newsletter.png" alt="Tela desktop Alura Newsletter">
 </div>
 
 <br>
